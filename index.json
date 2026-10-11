@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-instafail",
+  "versions": [
+    {
+      "commit": "fcf1413418fa3b049d87b9f750ba8b2b5a480d39",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:49:18.754417+00:00"
+    }
+  ]
+}
