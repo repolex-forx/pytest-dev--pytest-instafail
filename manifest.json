@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-instafail",
+  "versions": [
+    {
+      "commit": "fcf1413418fa3b049d87b9f750ba8b2b5a480d39",
+      "parsed_at": "2026-10-11T02:47:35.773470+00:00",
+      "filetree": "filetree/fcf1413418fa3b049d87b9f750ba8b2b5a480d39.nq.gz",
+      "blobs": [
+        "blob/7221a156deabc733106c465e8639c23806660ddb.nq.gz",
+        "blob/fcf7fd8d948a9bfbbac66c64c019405cf067b4d1.nq.gz",
+        "blob/40c9126aeb34a7001fcf3823b2ed5e2791b8c68f.nq.gz",
+        "blob/c552774295fefa611abd1518d42e8377843a994d.nq.gz",
+        "blob/08d3803c2c27d138e8b42afb1dcb3548993f3d72.nq.gz",
+        "blob/6180cc53cec9fdd7e9f72c58d41284052bd8858a.nq.gz",
+        "blob/d24941a6a6ef3b808e39a7596e7434acbfc457d9.nq.gz",
+        "blob/7b8666629e5f268c0f1c34863706b3d1a933ea01.nq.gz",
+        "blob/fbabd8d4bd61acb6b00c51936d4092ff33a937f1.nq.gz",
+        "blob/d8ae90c7109494332c96d423351a8531aec412b8.nq.gz",
+        "blob/9562b6818122bc3e987b9a83adfdb5245a3dc3ea.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
