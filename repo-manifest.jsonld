@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-instafail/commit/fcf1413418fa3b049d87b9f750ba8b2b5a480d39",
       "git:hexsha": "fcf1413418fa3b049d87b9f750ba8b2b5a480d39",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-instafail/commit/780bef0298fb9abaa6f3816e93f3fae0de8b7f6e",
